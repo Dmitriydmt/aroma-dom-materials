@@ -65,3 +65,6 @@ npm start
 ![Так же структура базы данных в SQL Server (SSMS)](images/db-structure.png)
 
 
+![Диаграмма](images/diagram.png)
+
+
